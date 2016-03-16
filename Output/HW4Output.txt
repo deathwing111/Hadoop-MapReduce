@@ -1,0 +1,20 @@
+2433, 4999 Bee Street,Traverse City,Michigan,49686,US	86
+2435, 4287 Locust Street,Albany,Georgia,31707,US	86
+2447, 1833 Boring Lane,San Francisco,California,94124,US	86
+2448, 3057 Elmwood Avenue,Scottsdale,Arizona,85259,US	86
+2450, 2741 Timber Ridge Road,Sacramento,California,95814,US	86
+2618, 4449 Kildeer Drive,Hampton,Virginia,23666,US	86
+6816, 4085 Franklin Street,Montgomery,Alabama,36014,US	86
+6818, 3848 Ritter Avenue,Utica,Michigan,48317,US	86
+6820, 438 Adams Avenue,Waldorf,Maryland,20601,US	86
+6822, 518 Modoc Alley,Boise,Idaho,83703,US	86
+15352, 693 Terry Lane,Orlando,Florida,32810,US	86
+16359, 4771 Ritter Avenue,Detroit,Michigan,48226,US	86
+16368, 151 Harvest Lane,Warrensburg,Missouri,64093,US	86
+16502, 1656 Marietta Street,Santa Rosa,California,95409,US	86
+17279, 2252 Oakridge Farm Lane,Waukesha,Wisconsin,53186,US	86
+18417, 9 Upland Avenue,Sylvania,Ohio,43617,US	86
+18419, 187 Charla Lane,Plano,Texas,75024,US	86
+18426, 1461 John Calvin Drive,Chicago,Illinois,60606,US	86
+18981, 4429 Lee Avenue,Camden,New Jersey,8102,US	86
+18997, 152 Snowbird Lane,Henderson,Nebraska,68371,US	86
